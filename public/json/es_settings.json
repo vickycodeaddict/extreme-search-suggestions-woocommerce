@@ -1,0 +1,20 @@
+{
+    "display_field": [
+        "sku",
+        "price",
+        "thumb",
+        "cat"
+    ],
+    "display_terms": [
+        "color",
+        "size"
+    ],
+    "search_field": [
+        "sku",
+        "cat"
+    ],
+    "search_terms": [
+        "color"
+    ],
+    "min_char": "2"
+}

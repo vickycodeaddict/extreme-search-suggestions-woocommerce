@@ -1,0 +1,13 @@
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display {
+    margin-left: 15px;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    height: 24px;
+}
+.woocommerce table.form-table .select2-container {
+    height: 40px;
+}
+.notice.notice-info.es_donate_notice {
+    border: 1px solid #c0c0c0;
+    box-shadow: 3px 3px 9px 0px rgb(9 0 0 / 10%);
+}
